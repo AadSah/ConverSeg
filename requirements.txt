@@ -1,0 +1,12 @@
+# ConvSeg top-level dependencies.
+# Install SAM2 separately via editable install from ./sam2.
+torch>=2.4
+numpy>=1.24
+opencv-python>=4.8
+pillow>=10.0
+tqdm>=4.66
+datasets>=2.20
+tensorboard>=2.14
+hydra-core>=1.3
+transformers>=4.48,<5.0.0
+peft>=0.17,<0.18
