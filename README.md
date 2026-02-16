@@ -24,6 +24,11 @@ This repository contains the official code for the paper [**Conversational Image
 
 ***
 
+## 📋 TODO
+- [ ] Release training data.
+
+***
+
 ## Table of Contents
 
 1. [Setup](#1-setup)
