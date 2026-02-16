@@ -24,10 +24,7 @@ This repository contains the official code for the paper [**Conversational Image
 
 ***
 
-## 📋 TODO
-- [ ] Release training data.
 
-***
 
 ## Table of Contents
 
@@ -129,6 +126,8 @@ When using `--input_json`, `eval.py` expects:
   ]
 }
 ```
+## 📋 TODO
+- [ ] Release training data.
 
 ***
 
