@@ -1,6 +1,6 @@
-# DataEngine
+# Conversational Data Engine
 
-DataEngine generates conversational segmentation supervision from raw images, then exports it into the formats expected by `train.py` and `eval.py`.
+The Conversational Data Engine generates conversational segmentation supervision from raw images, then exports it into the formats expected by `train.py` and `eval.py`.
 
 ## Directory Structure
 
