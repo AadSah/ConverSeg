@@ -228,7 +228,7 @@ python dataengine/tools/export_dataset.py \
   --path_mode relative
 ```
 
-See `dataengine/DATAENGINE.md` for full schemas and failure modes.
+See `dataengine/README.md` for full schemas and failure modes.
 
 ***
 
