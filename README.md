@@ -7,7 +7,7 @@ This repository contains the official code for the paper [**Conversational Image
   <a href="https://glab-caltech.github.io/converseg/">
     <img src="https://img.shields.io/badge/Project%20Page-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Project Page"/>
   </a>
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">
+  <a href="https://arxiv.org/abs/2602.13195">
     <img src="https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv Paper"/>
   </a>
   <a href="https://huggingface.co/datasets/aadarsh99/ConverSeg">
@@ -255,11 +255,14 @@ From `eval.py` (`--save_preds`):
 ## 8. Citation
 
 ```bibtex
-@article{sahoo202XConverSeg,
-  title   = {Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision},
-  author  = {Sahoo, Aadarsh and Gkioxari, Georgia},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {202X}
+@misc{sahoo2026conversationalimagesegmentationgrounding,
+  title = {Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision},
+  author = {Aadarsh Sahoo and Georgia Gkioxari},
+  year = {2026},
+  eprint = {2602.13195},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CV},
+  url = {https://arxiv.org/abs/2602.13195}, 
 }
 ```
 
