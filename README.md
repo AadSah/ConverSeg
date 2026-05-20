@@ -127,7 +127,7 @@ When using `--input_json`, `eval.py` expects:
 }
 ```
 ## 📋 TODO
-- [ ] Release training data.
+- [ ] Release training data on huggingface. (Google Drive link: https://drive.google.com/drive/folders/1xBJsNhC-jf1ZTayxflfnwU_JV_abMZT7?usp=sharing)
 
 ***
 
