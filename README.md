@@ -126,8 +126,8 @@ When using `--input_json`, `eval.py` expects:
   ]
 }
 ```
-## 📋 TODO
-- [ ] Release training data on huggingface. (Google Drive link: https://drive.google.com/drive/folders/1xBJsNhC-jf1ZTayxflfnwU_JV_abMZT7?usp=sharing)
+## Training Data: 
+- We have released all the conversational data used for training at: https://huggingface.co/datasets/aadarsh99/ConverSeg-Training-Data
 
 ***
 
